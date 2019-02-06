@@ -1,4 +1,4 @@
-FROM node:current-alpine
+FROM node:current
 
 MAINTAINER Gabor Raz
 
